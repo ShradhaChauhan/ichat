@@ -76,7 +76,7 @@ const ProfileUpdate = () => {
         }
       }
       else {
-        navigate('/');
+        navigate('/ichat');
       }
     })
   },[])
